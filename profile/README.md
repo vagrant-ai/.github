@@ -12,8 +12,3 @@
 ## Portfolio
 
 - [v-sigma.ai](https://v-sigma.ai)
-
-## Links
-
-- 🏠 Homepage: [vagrant.ai](https://vagrant.ai)
-- ✉️ Contact: [contact@vagrant.ai](mailto:contact@vagrant.ai)
